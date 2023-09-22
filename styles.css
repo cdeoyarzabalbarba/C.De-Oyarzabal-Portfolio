@@ -1,0 +1,26 @@
+/*
+Website color palate:
+#14213D oxford blue
+#FCA311 orange peel
+#E5E5E5 Platinum gray
+#7692FF cornflower blue
+*/
+
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: #14213D;
+    color: #E5E5E5;
+    font-family: Tahoma;
+    font-size: 16px;
+}
+
+h1, h3, p {
+    margin: 1em auto;
+    text-align: center;
+}
+
+h3 {
+  
+}
