@@ -1,2 +1,4 @@
 # C.De Oyarzabal Portfolio
- A portfolio website showcasing who I am and some of my recent projects
+ This project is currently a work in progress. It is in very early development stages. 
+ 
+ This is a portfolio website showcasing who I am and some of my recent projects
